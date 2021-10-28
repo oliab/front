@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(178, 210, 222);
+  
+}
+.leaflet-container {
+  
+  height: 10%;
+}
+.map-wrapper {
+  position: relative;
+}
+
